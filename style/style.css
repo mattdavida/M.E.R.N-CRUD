@@ -1,0 +1,4 @@
+/*style the Link component within form on posts_new // Links generate an <a> in the DOM */
+form a {
+  margin-left: 10px;
+}
