@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+# React-Redux CRUD
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+a simple application made with mongo, express, react-redux, and node.  
 
-### Getting Started
+This is the first full stack application I've made with react-redux. I did not focus on styling the application much at all. 
 
-There are two methods for getting started with this repo.
+https://thawing-ocean-90870.herokuapp.com/
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+[tutorial here](https://www.udemy.com/react-redux/learn/v4/)
